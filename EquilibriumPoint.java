@@ -1,5 +1,3 @@
-package n7t5n2025;
-
 public class EquilibriumPoint {
     public static int findEquilibrium(int arr[]) {
         // code here
